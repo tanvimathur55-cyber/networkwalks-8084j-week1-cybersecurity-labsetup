@@ -26,3 +26,10 @@ The purpose of this assignment is to provide a report about the Cybersecurity In
 | Network Adapter | **NAT Network** |
 
 
+### 1. Lab Setup Procedure
+
+### 1. Prepare the Host System
+
+Before creating the virtual machine, I checked that the system had sufficient resources for running Kali Linux and that hardware virtualization was available.
+
+
