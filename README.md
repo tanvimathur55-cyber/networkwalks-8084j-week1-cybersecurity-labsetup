@@ -83,7 +83,7 @@ I have added few screenshots of my work above which includes in the README at va
 
 
 ## What I Learned from Week 1 Project
-This week's task gave me some insights into this lab and hands-on experience with VirtualBox and setting up Kali Linux. It taught me how virtual machines operate, how to configure hardware allocations, and how the networking in VirtualBox works. In addition, I realized that sometimes even when you follow a guide, things don't always turn out exactly as described because you have to configure the settings yourself and learn from that. I would say it was a good introduction into the environment, and I'm looking forward to continuing my learning through this internship.
+This week's task gave me some insights into this lab and hands-on experience with VirtualBox and setting up Kali Linux. It taught me how virtual machines operate, how to configure hardware allocations, and how the networking in VirtualBox works. In addition, I realized that sometimes even when you follow a guide, things don't always turn out exactly as described because you have to configure the settings yourself and learn from that. I would say it was a nice start and a strong introduction into the environment, and looking forward to be learning through this internship.
 
 ## Security & Ethical Use
 This lab is intended strictly for **authorized cybersecurity learning and testing**.
