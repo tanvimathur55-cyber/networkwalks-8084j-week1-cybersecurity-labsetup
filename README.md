@@ -28,9 +28,15 @@ The purpose of this assignment is to provide a report about the Cybersecurity In
 
 ### 1. Lab Setup Procedure
 
-### 1. Prepare the Host System
+### Prepare the Host System
 Prior to setting up the virtual machine, I ensured that there were enough resources on the system to run Kali Linux, along with hardware virtualization capabilities.
 <img width="1242" height="907" alt="image" src="https://github.com/user-attachments/assets/767737d2-5b5b-4d14-97e7-a19240c4fdfe" />
+
+## 2. Installing 7-Zip
+I began with the installation of 7-Zip as it would be needed for extraction of the Kali Linux virtual machine which is in a compressed format.
+<img width="1907" height="997" alt="image" src="https://github.com/user-attachments/assets/30d2aae3-9021-411a-9a91-dfcbcf2583cc" />
+
+##3. 
 
 
 
