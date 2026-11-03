@@ -41,11 +41,8 @@ I began with the installation of 7-Zip as it would be needed for extraction of t
 ##3. Installation of VirtualBox
 VirtualBox was installed as the virtualization platform used to run Kali Linux.
 After installation, I opened VirtualBox and verified that the application could create and manage virtual machines.
-- **RAM:** **16354 MB**
-- **Processors:** **32 CPUs**
-- **Operating System:** Kali Linux
-- **Network Adapter:** **Nat Network**
-- <img width="1972" height="1242" alt="image" src="https://github.com/user-attachments/assets/a0487bba-9842-4ce4-83a0-dbff26a43c5a" />
+<img width="1017" height="407" alt="image" src="https://github.com/user-attachments/assets/8d3e615e-f5a9-4e24-92da-847674a07569" />
+
 - <img width="1920" height="1504" alt="image" src="https://github.com/user-attachments/assets/16f8524b-7f34-4c0e-9b36-f8e38d9b5638" />
 
 
