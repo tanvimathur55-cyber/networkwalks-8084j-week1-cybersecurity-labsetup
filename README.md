@@ -2,7 +2,7 @@
 NetworkWalks CyberSecurity lab setup
 
 
-##PROJECT OVERVIEW
+## Project Overview
 The purpose of this assignment is to provide a report about the Cybersecurity Internship task that I carried out in Week 1 for the company Networkwalks, which was setting up a cybersecurity lab through the use of Virtualbox and Kali Linux.
 
 ## Objectives
