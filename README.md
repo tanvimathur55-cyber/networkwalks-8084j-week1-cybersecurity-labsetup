@@ -21,7 +21,7 @@ The purpose of this assignment is to provide a report about the Cybersecurity In
 | Host RAM | **16.0 GB** |
 | Virtualization Software | VirtualBox **Version 7.2.16 r174877 (Qt6.8.0 on windows)**|
 | Guest OS | Kali Linux **Debian (64-bit)** |
-| Kali RAM | **4 MB ---> 16364 MB** |
+| Kali RAM | **4 MB ---> 4096 MB (4 GB)** |
 | Kali CPU | **1 CPU ---> 32 CPUs** |
 | Network Adapter | **NAT Network** |
 
